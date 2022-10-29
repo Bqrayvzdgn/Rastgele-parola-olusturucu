@@ -1,3 +1,2 @@
-# Random-Password-Generator
-
-Rastgele Parola Oluşturmanız için uygulama
+## RPG ;
+Rastgele Parola Oluşturmanız için basit bir program.
